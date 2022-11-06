@@ -1,11 +1,11 @@
 # mfk-bootstrap-project
 
 <h1>Details About the Project(Proje Hakkında Detaylar)</h1>
-<i>
+<b>
 This project was made to learn how to use Bootstrap.
 BOOTSTRAP was used in the project with basic level HTML and CSS knowledge.
-(Bu proje Bootstrap kullanımının öğrenilmesi amacıyla yapılmıştır.</i>
-Projede temel düzey HTML ve CSS bilgisi ile BOOTSTRAP kullanılmıştır.)
+  <i>(Bu proje Bootstrap kullanımının öğrenilmesi amacıyla yapılmıştır.</b>
+Projede temel düzey HTML ve CSS bilgisi ile BOOTSTRAP kullanılmıştır.)</i>
 
 ![](https://github.com/MFKORKMAZ42/bootstrap-project/blob/master/bootgif.gif)
 
