@@ -1,6 +1,6 @@
 # mfk-bootstrap-project
 
-Proje Hakkında Detaylar
+<h1>Proje Hakkında Detaylar</h1>
 
 Bu proje Bootstrap kullanımının öğrenilmesi amacıyla yapılmıştır.
 Projede temel düzey HTML ve CSS bilgisi ile BOOTSTRAP kullanılmıştır.
